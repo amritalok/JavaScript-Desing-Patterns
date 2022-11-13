@@ -1,0 +1,2 @@
+- Notes from https://www.patterns.dev/posts/singleton-pattern/
+- The code is present in singleton pattern folder and need to be run in a JavaScript playground

@@ -1,0 +1,3 @@
+- Notes from https://www.patterns.dev/posts/proxy-pattern/
+- The proxy pattern is used to get more control over interactions with objects. We can add validation, formatting while setting or getting object values.
+- Overusing the Proxy object or performing heavy operations on each handler method invocation can easily affect the performance of your application negatively. It's best to not use proxies for performance-critical code.
